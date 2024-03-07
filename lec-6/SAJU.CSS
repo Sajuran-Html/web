@@ -1,0 +1,15 @@
+h1,h3{
+    color: rgb(00,00,00);
+    text-align: center;
+}
+#CSK{
+    color:#2085ff red;
+}
+.DHONI{
+    color:red;
+    height: 450px;
+    width: 100%;
+    border: 2px solod green;
+    background-image: url('RdDzynsSajuran3747.webp');
+    background-position: center bottom;
+}
